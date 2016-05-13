@@ -1,0 +1,4 @@
+/* Effective stylesheet produced by snapshot save */
+.captcha-loader { background: transparent url("urn:not-loaded:https://static.citilink.ru/media/global/loader.gif") no-repeat scroll 0% 0%; width: 16px; height: 16px; position: absolute; top: 50%; left: 50%; margin: -8px 0px 0px -8px; z-index: -1; }
+.captcha-block { position: relative; }
+.captcha-image { cursor: pointer; }
